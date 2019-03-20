@@ -1,2 +1,1 @@
-# Ethereum-Payment-Channel
-One way to work out a payment channel on Ethereum. 
+# Signing and verifying a message
